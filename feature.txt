@@ -1,0 +1,1 @@
+Thhrough this lab, I practiced Git and Github worksflows, including making pull requests, pushing commits, and learned the fundamentals of version control.
